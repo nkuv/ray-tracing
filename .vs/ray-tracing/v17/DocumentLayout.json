@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ray-tracing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1623C2B5-CFEC-47DC-912D-7D318852457D}|ray-tracing.vcxproj|D:\\ray-tracing\\sfml_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1623C2B5-CFEC-47DC-912D-7D318852457D}|ray-tracing.vcxproj|solutionrelative:sfml_demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1623C2B5-CFEC-47DC-912D-7D318852457D}|ray-tracing.vcxproj|D:\\ray-tracing\\ray-tracing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1623C2B5-CFEC-47DC-912D-7D318852457D}|ray-tracing.vcxproj|solutionrelative:ray-tracing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sfml_demo.cpp",
+              "DocumentMoniker": "D:\\ray-tracing\\sfml_demo.cpp",
+              "RelativeDocumentMoniker": "sfml_demo.cpp",
+              "ToolTip": "D:\\ray-tracing\\sfml_demo.cpp",
+              "RelativeToolTip": "sfml_demo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T10:49:13.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ray-tracing.cpp",
+              "DocumentMoniker": "D:\\ray-tracing\\ray-tracing.cpp",
+              "RelativeDocumentMoniker": "ray-tracing.cpp",
+              "ToolTip": "D:\\ray-tracing\\ray-tracing.cpp",
+              "RelativeToolTip": "ray-tracing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T10:27:57.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
