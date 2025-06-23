@@ -11,7 +11,15 @@ int main(){
                 window.close();
             } 
         }
-        window.clear(sf::Color::Blue);; 
+        window.clear(sf::Color::Green);
+
+        sf::CircleShape sphere(100.f);
+        sphere.setFillColor(sf::Color::Red);
+        sphere.setPosition(
+            (window.getSize().x - sphere.getRadius() * 2)/2,
+            (window.getSize().y - sphere.getRadius() * 2)/2
+        );
+        window.draw(sphere);
         window.display();
     }
 
