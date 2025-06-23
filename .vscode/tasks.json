@@ -8,7 +8,7 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${workspaceFolder}/ray-tracing.cpp",
+                "${workspaceFolder}/src/main.cpp",
                 "-IC:/msys64/mingw64/include",
                 "-LC:/msys64/mingw64/lib",
                 "-lsfml-graphics",
