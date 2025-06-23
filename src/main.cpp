@@ -1,16 +1,17 @@
-#include <SFML/Graphics.hpp>
+#include<SFML/Graphics.hpp>
 
-int main() {
-    sf::RenderWindow window(sf::VideoMode(800, 600),"Ray tracing");
+int main(){
+    sf::RenderWindow window(sf::VideoMode(1024,768),"Ray tracing");
     window.setFramerateLimit(60);
 
-    while (window.isOpen()) {
+    while(window.isOpen()){
         sf::Event event;
-        while (window.pollEvent(event)) {
-            if (event.type == sf::Event::Closed)
+        while(window.pollEvent(event)){
+            if(event.type==sf::Event::Closed){
                 window.close();
+            } 
         }
-        window.clear(sf::Color::Black);
+        window.clear(sf::Color::Blue);; 
         window.display();
     }
 
