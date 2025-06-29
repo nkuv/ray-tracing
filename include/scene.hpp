@@ -12,6 +12,10 @@ public:
     void handleInput(const sf::Vector2i& mousePos, bool leftPressed, bool rightPressed, 
                      bool upPressed, bool downPressed);
     
+    // Getter methods for renderer access
+    const Sphere& getSphere() const;
+    const Light& getLight() const;
+    
 private:
     Sphere sphere;
     Light light;
